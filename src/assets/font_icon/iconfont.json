@@ -1,0 +1,121 @@
+{
+  "id": "2279368",
+  "name": "web 设计器 -条件表达式",
+  "font_family": "VWebeditor",
+  "css_prefix_text": "vwicon-",
+  "description": "web 设计器 条件表达式工具栏中图标",
+  "glyphs": [
+    {
+      "icon_id": "18911946",
+      "name": "xiaoyu",
+      "font_class": "xiaoyu",
+      "unicode": "e8cc",
+      "unicode_decimal": 59596
+    },
+    {
+      "icon_id": "18911947",
+      "name": "youkhao",
+      "font_class": "youkhao",
+      "unicode": "e8cd",
+      "unicode_decimal": 59597
+    },
+    {
+      "icon_id": "18911948",
+      "name": "zuokhao",
+      "font_class": "zuokhao",
+      "unicode": "e8ce",
+      "unicode_decimal": 59598
+    },
+    {
+      "icon_id": "18911949",
+      "name": "dayudy",
+      "font_class": "dayudy",
+      "unicode": "e8cf",
+      "unicode_decimal": 59599
+    },
+    {
+      "icon_id": "18911950",
+      "name": "jia",
+      "font_class": "jia",
+      "unicode": "e8d0",
+      "unicode_decimal": 59600
+    },
+    {
+      "icon_id": "18911951",
+      "name": "jian",
+      "font_class": "jian",
+      "unicode": "e8d1",
+      "unicode_decimal": 59601
+    },
+    {
+      "icon_id": "18911953",
+      "name": "dengydy",
+      "font_class": "dengydy",
+      "unicode": "e8d2",
+      "unicode_decimal": 59602
+    },
+    {
+      "icon_id": "18911954",
+      "name": "chu",
+      "font_class": "chu",
+      "unicode": "e8d3",
+      "unicode_decimal": 59603
+    },
+    {
+      "icon_id": "18911955",
+      "name": "cheng",
+      "font_class": "cheng",
+      "unicode": "e8d4",
+      "unicode_decimal": 59604
+    },
+    {
+      "icon_id": "18911956",
+      "name": "zant",
+      "font_class": "zant",
+      "unicode": "e8d5",
+      "unicode_decimal": 59605
+    },
+    {
+      "icon_id": "18911957",
+      "name": "budy",
+      "font_class": "budy",
+      "unicode": "e8d6",
+      "unicode_decimal": 59606
+    },
+    {
+      "icon_id": "18911959",
+      "name": "eraser",
+      "font_class": "eraser",
+      "unicode": "e8d7",
+      "unicode_decimal": 59607
+    },
+    {
+      "icon_id": "18911960",
+      "name": "xiaoyudy",
+      "font_class": "xiaoyudy",
+      "unicode": "e8d8",
+      "unicode_decimal": 59608
+    },
+    {
+      "icon_id": "18911961",
+      "name": "dayu",
+      "font_class": "dayu",
+      "unicode": "e8d9",
+      "unicode_decimal": 59609
+    },
+    {
+      "icon_id": "18911962",
+      "name": "&",
+      "font_class": "icon-test",
+      "unicode": "e8da",
+      "unicode_decimal": 59610
+    },
+    {
+      "icon_id": "18911988",
+      "name": "ganth",
+      "font_class": "ganth",
+      "unicode": "e8db",
+      "unicode_decimal": 59611
+    }
+  ]
+}
